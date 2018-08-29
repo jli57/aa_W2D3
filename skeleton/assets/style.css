@@ -7,3 +7,14 @@ h1 {
 h2 {
   font-size:32px;
 }
+.ingredients-list {
+  list-style: square inside;
+}
+
+ol {
+  list-style: disc inside;
+}
+header > img {
+  width: 100px; 
+}
+ol > li 
